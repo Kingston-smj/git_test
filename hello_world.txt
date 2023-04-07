@@ -1,6 +1,6 @@
 djdjcd
 git status
-git add 
-git commit 
+git add .
+git commit -m .
 git status
 git psuh
