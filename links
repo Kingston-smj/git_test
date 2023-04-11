@@ -1,5 +1,6 @@
 https://auntm.ai/masteries/undefined
 
+
 Use the following commands to uninstall our official app for Linux:
 
 sudo apt-get autoremove protonvpn
@@ -9,6 +10,7 @@ rm -rf ~/.cache/protonvpn
 And
 
 rm -rf ~/.config/protonvpn
+
 
 Commands related to a remote repository:
 git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
